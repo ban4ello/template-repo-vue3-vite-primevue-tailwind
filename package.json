@@ -1,7 +1,6 @@
 {
-    "name": "Calculations and Analysis",
-    "version": "1.2.0",
-    "author": "Ivan Miroshnichenko",
+    "name": "Vue3 App",
+    "version": "1.0.0",
     "scripts": {
         "dev": "vite",
         "predeploy": "npm run build",
@@ -17,9 +16,7 @@
         "primeicons": "^6.0.1",
         "primevue": "^4.0.0",
         "vue": "^3.4.34",
-        "vue-router": "^4.4.0",
-        "vue3-xlsx": "^1.1.2",
-        "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz"
+        "vue-router": "^4.4.0"
     },
     "devDependencies": {
         "@primevue/auto-import-resolver": "^4.0.1",
