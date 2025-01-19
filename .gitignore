@@ -1,0 +1,14 @@
+node_modules
+coverage
+dist
+*.log*
+.nuxt
+.nitro
+.cache
+.output
+.env
+.DS_Store
+.idea
+.eslintcache
+api-generator/typedoc.json
+**/.DS_Store
